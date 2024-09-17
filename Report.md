@@ -14,3 +14,5 @@ Refer to [2024-mini/assignment/exercise_sound.py](https://github.com/tanveerdhil
 Refer to [2024-mini/assignment/exercise_game.py](https://github.com/tanveerdhilon/2024-mini/blob/main/assignment/exercise_game.py) for updated code computing the average, minimum, maximum response time for 10 flashes total.
 2. Upload the response time data to a cloud service of your choice. <br/>
 Refer to [2024-mini/assignment/exercise_game.py](https://github.com/tanveerdhilon/2024-mini/blob/main/assignment/exercise_game.py) for updated code uploading the response time data to Firebase and to [2024-mini/assignment/mini-c686c-default-rtdb-user_2024_9_15_9_49_29-export.json](https://github.com/tanveerdhilon/2024-mini/blob/main/assignment/mini-c686c-default-rtdb-user_2024_9_15_9_49_29-export.json) to view JSON file.
+Find below the link to the video of our project:
+https://drive.google.com/file/d/10_soVH0dbaCRgN5Nzv6FOB-oJ3X7sEx7/view?ts=66ea1269
